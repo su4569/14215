@@ -42,4 +42,4 @@
 无广告打扰：我们网站去除了多余的广告，保证你可以沉浸在电影中，不被打扰
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/su4569/14215 ）</span>
